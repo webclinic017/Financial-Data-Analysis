@@ -1,9 +1,9 @@
 # Financial data analysis 💵📈📉📊
 
 - Sentdex's Python for Finance YT series
-- NeuralNine YT Financial python seriers
+- NeuralNine YT Financial python series
 
-> Learn new Financial terms by googling. 
+> Learn new Financial terms by googling.
 
 More advanced? -> Learn Algo trading :)
 
