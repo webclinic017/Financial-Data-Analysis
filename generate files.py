@@ -2,5 +2,10 @@
 import os
 
 files = os.listdir()
-for file in files:
-    print(file)
+# print(files)
+# Add files to files.md
+with open('Files.md', 'w') as f:
+    for file in files:
+        f.write(file + '\n')
+
+# alt - markdown tree

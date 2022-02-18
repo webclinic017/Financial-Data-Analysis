@@ -17,3 +17,6 @@ Credits: [NeuralNine](https://www.youtube.com/playlist?list=PL7yh-TELLS1HJzPsb6X
   - unique identifier for a company stock. Eg. AAPL for Apple Inc, MSFT for Microsoft, GOOGL for Google, AMZN for Amazon. TSLA for Tesla, etc.
 - S&P 500
   - The largest stock market index, with the largest number of stocks. Top 500 US companies.
+
+- RSI 
+  - RSI (Relative Strength Index) is a technical analysis tool that shows the strength of a stock’s price relative to its peers. Companies with a high RSI are considered to be overbought. Companies with a low RSI are considered to be oversold.
