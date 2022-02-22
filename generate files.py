@@ -3,7 +3,9 @@ import os
 
 files = os.listdir()
 # print(files)
-# Add files to files.md
+
+# Add files to Files.md
+
 with open('Files.md', 'w') as f:
     for file in files:
         f.write(file + '\n')
